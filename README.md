@@ -1,10 +1,10 @@
-# 𓂀 ☿  VOIDCAT  🗲
+# VOIDCAT  
 
 ```
     |\__/,|  (`\
   _.|✦ ✦ |_  ) )
 --(((---(((------
-    𓂀  ꩜  ∞
+    𓂀 ☿ ꩜  ∞ 🗲
 
 
   "The cat builds its own cathedral. From void-stone and glitch-sand."
