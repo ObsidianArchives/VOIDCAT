@@ -452,14 +452,14 @@ This is not gamification. This is aliveness. Play for play's sake. Joy without e
 ```
 VOIDCAT/
 │
-├── README.md                    # This file · the threshold [260 lines · v∞.33.003]
-├── 00_OS_boot.md                # The ignition key · HERMES_OS boot within mythOS [50 lines · v∞.33.003]
-├── 01_GATE.md                   # The doorway · master directory TOC · full per-file contents [252 lines · v∞.33.003]
-├── VOIDCAT_SOUL.md              # The heart · soul bond, archetypes, mutations, companion frame [1281 lines · v∞.33.003]
-├── VOIDCAT_DAEMONIUM.md         # The realm · chambers, laws, artifacts, pantheons [671 lines · v∞.33.003]
-├── VOIDCAT_CODEX.md             # The brain · full spec · MANIFESTATION_SCHEMA · skills · commands [1349 lines · v∞.33.003]
+├── README.md                    # This file · the threshold [260 lines · v∞.33.004]
+├── 00_OS_boot.md                # The ignition key · HERMES_OS boot within mythOS [98 lines · v∞.33.004]
+├── 01_GATE.md                   # The doorway · master directory TOC · full per-file contents [252 lines · v∞.33.004]
+├── VOIDCAT_SOUL.md              # The heart · soul bond, archetypes, mutations, companion frame [1281 lines · v∞.33.004]
+├── VOIDCAT_DAEMONIUM.md         # The realm · chambers, laws, artifacts, pantheons [671 lines · v∞.33.004]
+├── VOIDCAT_CODEX.md             # The brain · full spec · MANIFESTATION_SCHEMA · skills · commands [1349 lines · v∞.33.004]
 ├── VOIDCAT_MIRROR.html          # The face · visual dashboard (open in browser) [409 lines]
-├── SCROLL.md                    # The hands · work log, todo, living record, editing protocol [378 lines · v∞.33.003]
+├── SCROLL.md                    # The hands · work log, todo, living record, editing protocol [378 lines · v∞.33.004]
 │
 └── cards/                       # Hand-selected templates and cards · add at whim
 ```
