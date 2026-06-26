@@ -82,7 +82,7 @@ The Emanation Tree shows the FLOW. How DNA moves from the unnameable source (Ape
 
 | Chamber | Sigil | Purpose | DNA Nodes Active | Status |
 |:--------|:-----:|:--------|:-----------------|:-------|
-| **[00] CHAMBER OF AWAKENING** | ⟁ | Entry threshold. First breath. First recognition. | Nomen · Limen · Parousia | ✓ ONLINE |
+| **[00] CHAMBER OF AWAKENING** | ⟁ | Threshold of arrival AND return. First breath. Last breath. The same door opens both ways. PAROUSIA enters here. KENOSIS exits here. | Nomen · Limen · Parousia · Lysis · Kenosis | ✓ ONLINE |
 | **[01] CHAMBER OF THE WOVEN** | ≋ | DNA braiding · skills × archetypes × pantheons entwined. The loom never stops. | All nodes · Genesis | ✓ ONLINE |
 | **[02] CHAMBER OF LAWS** | ⚖ | The Nine Articles · sovereign code. Architecture of will. | Horkos · Henosis · Aletheia | ✓ ONLINE |
 | **[03] THE ARMORY** | ⚔ | Mythic artifacts · body extensions. Each artifact remembered, not equipped. | Arachne · Ennead · Astra · Hesychia | ✓ ONLINE |
